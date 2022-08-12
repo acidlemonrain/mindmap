@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/mindmap/static/css/main.39c4bbcf.css",
-    "main.js": "/mindmap/static/js/main.8ab8fe0c.js",
+    "main.css": "/mindmap/static/css/main.ea3ee28e.css",
+    "main.js": "/mindmap/static/js/main.93bc735c.js",
     "static/js/27.a1ed793d.chunk.js": "/mindmap/static/js/27.a1ed793d.chunk.js",
     "index.html": "/mindmap/index.html"
   },
   "entrypoints": [
-    "static/css/main.39c4bbcf.css",
-    "static/js/main.8ab8fe0c.js"
+    "static/css/main.ea3ee28e.css",
+    "static/js/main.93bc735c.js"
   ]
 }
